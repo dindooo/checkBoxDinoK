@@ -1,0 +1,10 @@
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\bin\Debug\checkBox1.exe.config
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\bin\Debug\checkBox1.exe
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\bin\Debug\checkBox1.pdb
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.csproj.AssemblyReference.cache
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.Form1.resources
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.Properties.Resources.resources
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.csproj.GenerateResource.cache
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.exe
+C:\Users\Gospodin\source\repos\checkBox1\checkBox1\obj\Debug\checkBox1.pdb
